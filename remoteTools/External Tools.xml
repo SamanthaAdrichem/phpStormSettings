@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Daisyconinterface - Composer" description="Daisyconinterface - Composer" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="CURRENT_VAGRANT" CONNECTION_ID="vagrant:D:\development">
+    <exec>
+      <option name="COMMAND" value="/usr/bin/composer" />
+      <option name="PARAMETERS" value="update" />
+      <option name="WORKING_DIRECTORY" value="/home/httpd/vhosts/daisyconinterface" />
+    </exec>
+  </tool>
+</toolSet>
