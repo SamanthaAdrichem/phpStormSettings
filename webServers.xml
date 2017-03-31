@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b353015f-84c2-4651-b795-94f8647a965e" name="bp" url="http://barryplaats.nl.transurl.nl">
+        <fileTransfer host="barryplaats.nl.transurl.nl" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
