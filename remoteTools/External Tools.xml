@@ -6,7 +6,7 @@
       <option name="WORKING_DIRECTORY" value="/home/httpd/vhosts/daisyconinterface" />
     </exec>
   </tool>
-  <tool name="data.daisycon.com - Composer" description="data.daisycon.com - Composer" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="NONE">
+  <tool name="data.daisycon.com - Composer" description="data.daisycon.com - Composer" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="CURRENT_VAGRANT">
     <exec>
       <option name="COMMAND" value="/usr/bin/composer" />
       <option name="PARAMETERS" value="update" />
