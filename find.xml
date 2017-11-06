@@ -12,9 +12,12 @@
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.php</mask>
-      <mask>*.html</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
