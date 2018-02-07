@@ -22,6 +22,7 @@
       <mask>*.s?css</mask>
       <mask>*.css</mask>
       <mask>*.scss</mask>
+      <mask>*.scss,*.css</mask>
     </recentFileMasks>
   </component>
 </application>
