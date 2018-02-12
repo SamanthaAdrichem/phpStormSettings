@@ -34,6 +34,10 @@
           <option name="url" value="git@bitbucket.org:SamanthaAdrichem/pogocalc.com.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:daisycontech/mms-dc_wordpress_plugin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\development\vhosts" />
